@@ -50,4 +50,4 @@ Discuss any versioning used especially if you are making major changes throughou
 
 
 
-![University of Iowa Logo](https://upload.wikimedia.org/wikipedia/en/thumb/4/49/University_of_Iowa_seal.svg/1200px-University_of_Iowa_seal.svg.png =250x250)
+![University of Iowa Logo]("https://upload.wikimedia.org/wikipedia/en/thumb/4/49/University_of_Iowa_seal.svg/1200px-University_of_Iowa_seal.svg.png" = 250x250)
