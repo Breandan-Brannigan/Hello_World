@@ -49,5 +49,4 @@ No additional documentation at this time.  Here is some & Italicized **_BOLD_** 
 Discuss any versioning used especially if you are making major changes throughout the process of your code.
 
 
-
-![University of Iowa Logo]("https://upload.wikimedia.org/wikipedia/en/thumb/4/49/University_of_Iowa_seal.svg/1200px-University_of_Iowa_seal.svg.png" width="100" height="100"/>)
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/University_of_Iowa_seal.svg/1200px-University_of_Iowa_seal.svg.png" width="250" height="250" />
